@@ -1,0 +1,122 @@
+.profile {
+border-radius: 50%;
+width: 300px;
+float: left;
+margin-left: 15px;
+}
+
+h1{
+font-family: 'Roboto', sans-serif;
+font-weight: 600px;
+font-size: 80px;
+color: #262E31;
+text-align: center;
+padding-top: 50px;
+padding-right: 5px;
+height: : 250px;
+letter-spacing: 8px;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+font-weight: 100;
+font-size: 25px;
+color: #262E31;
+text-align: center;
+margin-top: 0;
+
+}
+.presentation {
+  font-family: 'Roboto', sans-serif;
+font-weight: 100;
+background-color: #CFCFCF;
+color: white;
+height: 170px;
+text-align: left;
+padding-top: 50px;
+letter-spacing: 3px;
+padding-right: 15px;
+padding-left: 40px;
+}
+/*@media (max-width: 960px) {.presentation {width: 700px;}}
+@media (max-width: 720px) {.presentation {width: 500px;}}
+@media (max-width: 540px) {.presentation {width: 300px;}}
+
+@media (max-width: 960px) { .zonesociale {width: 700px;}}
+@media (max-width: 720px) { .zonesociale {width: 500px;}}
+@media (max-width: 540px) { .zonesociale {width: 300px;}}*/
+
+
+
+h3 {
+  font-size: 17px;
+  font-family: 'Lato', bold;
+  text-align: center;
+}
+
+.zonesociale {
+font-family: 'Lato', sans-serif;
+font-weight: light;
+width:800px;
+margin:0 auto;
+padding-left: 400px;
+}
+
+.pictos {
+  font-size: 40px;
+  color: #262E31;
+  width: 40px;
+  height: 40px;
+  text-align: right;
+  float: right;
+  padding-bottom: 20px;
+
+}
+a{color: #262E31;
+
+}
+a:hover {
+  color: #F9D1D3;
+}
+
+.hobbies {
+  font-family: 'Lato', sans-serif;
+  font-weight: light;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 120px;
+}
+
+ul > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.bloc {
+  border-right: 1px solid #262E31;
+  padding: 20px;
+}
+
+footer {
+  font-family: 'Lato', sans-serif;
+  font-weight: light;
+  color: white;
+  background-color: #262E31;
+  text-align: right;
+  margin-top: 170px;
+  height: 50px;
+  padding-right: 30px;
+  padding-top: 1px;
+}
+
+#bloc1 {
+  border-left: 1px solid #262E31;
+}
+
+@media (max-width: 960px) { .container {width: 700px;}}
+@media (max-width: 720px) { .container {width: 500px;}}
+@media (max-width: 540px) { .container {width: 300px;}}
